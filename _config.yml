@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Uncharted Waters 
 header-img: img/home-bg.png
 email: smitche4@mail.umw.edu
 copyright_name: sierrakate7
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Start of my Coding Career
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sierrakate7
